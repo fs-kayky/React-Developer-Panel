@@ -3,9 +3,6 @@ import { useStorageDb } from '../../shared/hooks/useStorageDb'
 import { IGallery } from '../../shared/interfaces/IGallery';
 import { TiPlus } from "react-icons/ti";
 import * as C from './styles';
-import Widget from '../../shared/components/widget';
-// import SwipeableTextMobileStepper from './components';
-
 
 const Gallery = () => {
     const [dialog, setDialog] = useState(false);
@@ -120,9 +117,6 @@ const Gallery = () => {
 
         </div>
         </C.Container>
-         <Widget />
-
-        {/* <SwipeableTextMobileStepper />  */}
         </>
     );
 };
