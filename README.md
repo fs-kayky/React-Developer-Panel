@@ -1,6 +1,8 @@
 # React Developer Panel 👩‍💻
 
-🌐 Welcome to React Developer Panel (RDP), this repository is a React Study project, inside you can see the code that i use to create a responsive and creative web application 
+🌐 Welcome to React Developer Panel (RDP), this repository is a React Study project, inside you can see the code that i use to create a responsive and creative web application
+
+Note: to login just input your github name :)
 
 # Libs 📚
 
@@ -19,4 +21,4 @@
 - npm install react-toastify
 ````
 
-Or you can just check the application in prod [Here]().
+Or you can just check the application in prod [Here](https://react-developer-panel-jzru.vercel.app).
